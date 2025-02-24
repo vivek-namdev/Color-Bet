@@ -33,7 +33,7 @@ Color Bet is an exciting decentralized gambling platform built on the Solana blo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DavidGoyal/ColorBet.git
+   git clone https://github.com/vivek-namdev/Color-Bet.git
    cd ColorBet
    ```
 2. Install dependencies:
